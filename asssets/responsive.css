@@ -1,0 +1,122 @@
+/* Mobile */
+
+@media only screen and (max-width: 600px) {
+    .navbar-brand img{
+
+    }
+    .address {
+        margin-left: 5px;
+    margin-top: 20px;
+    }
+ .m-view{
+
+        margin-left: -16px;
+        margin-top: 10px;
+ }
+ .hero-text h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+.hero-text p {
+    font-size: 16px;}
+
+    .search-location img {
+        left: 30px;
+        top: 0px;
+        width: 12px;
+    }
+
+    .hero-details {
+        padding: 25px 12px;
+        width: 382px;
+
+    }
+    .search-location {
+        padding-top: 0;
+    }
+    .search-location input {
+        width: 260px;
+        margin-bottom: 20px;
+        margin-top: 25px;
+    }
+
+    .search-location button {
+        margin-left: 18px;
+    }
+    .bannert-bn {
+        margin-left: 0;}
+
+        .hero-banner-right img {
+            width: 300px;
+            position: relative;
+            right: 5px;
+            top: 35px;
+        }
+.m-view-hdw{
+    display: inline-block;
+    position: relative;
+    left: 9pc;
+}
+.side-border {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border: none;
+}
+.img-center {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#search-food .row{
+    display: block;
+}
+.img-center {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#search-food img {
+     width: auto !important;}
+
+     #search-food h2{
+        text-align: center;
+     }
+     .align-items {
+         justify-self: center;
+        display: inline-grid;
+    }
+
+    #best-deal .row{
+        display: grid;
+    justify-content: center;
+    }
+
+    .best-img img {
+        width: 350px;
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .content-align {
+        display: inline-flex;
+        justify-content: space-between;
+        gap: 25px;
+        width: 435px;
+    }
+    #populor-food .card {
+        width: 18rem;
+        padding-bottom: 25px;
+    }
+    .form-align {
+        display: grid;
+        margin-left: -30px;
+        
+    }
+    .m-view-form {
+        display: contents;
+        /* position: relative; */
+        /* left: 20px; */
+    }
+}
